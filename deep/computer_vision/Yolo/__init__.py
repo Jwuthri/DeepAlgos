@@ -1,0 +1,1 @@
+"""You only look once (YOLO):Yolo is a state-of-the-art, real-time object detection system, Prior detection systems repurpose classifiers orlocalizers to perform detection. They apply the model to an image at multiple locations and scales.High scoring regions of the image are considered detections."""

@@ -1,0 +1,1 @@
+"""Generative Query Network (GQN):Generative Query Network (GQN) a framework within which machines learn to perceive their surroundings by training onlyon data obtained by themselves as they move around scenes."""
